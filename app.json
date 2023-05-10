@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Rohkris",
+    "slug": "rohkris",
+    "version": "0.0.4",
+    "orientation": "portrait",
+    "icon": "./assets/rohkris.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/rohkris.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/rohkris.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.jeremy776.rohkris"
+    },
+    "web": {
+      "favicon": "./assets/rohkris.png"
+    },
+    "owner": "jeremy776",
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    }
+  }
+}
