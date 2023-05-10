@@ -23,25 +23,27 @@ Project ini dibuat hanya untuk menambah pengalaman bagi saya untuk menggunakan `
 **Server:** Nodejs, Express
 ## Screenshots
 
-- Beranda
+## Beranda
 ![Home Screen](https://cdn.discordapp.com/attachments/901133191962837053/1105826932437823498/Screenshot_2023-05-10-19-00-53-063_com.jeremy776.rohkrissman14bandarlampung.jpg)
 
-- Pengaturan
+## Pengaturan
 ![Setting Screen](https://cdn.discordapp.com/attachments/901133191962837053/1105827372395135116/IMG_20230510_190258.jpg)
 
-- Jadwal Renungan
+## Jadwal Renungan
 ![Jadwal Ibadah Screen](https://cdn.discordapp.com/attachments/901133191962837053/1105827772909228173/Screenshot_2023-05-10-19-04-33-223_com.jeremy776.rohkrissman14bandarlampung.jpg)
 
-- Jadwal Piket
+## Jadwal Piket
 ![Jadwal Piket](https://cdn.discordapp.com/attachments/901133191962837053/1105828181904212089/IMG_20230510_190610.jpg)
 
-- Welcome Screen
+## Welcome Screen
 ![Welcome Screen](https://cdn.discordapp.com/attachments/901133191962837053/1105828651456548904/Screenshot_2023-05-10-19-07-45-404_com.jeremy776.rohkrissman14bandarlampung.jpg)
 
-- Login Screen
+## Login Screen
 ![Login Screen](https://cdn.discordapp.com/attachments/901133191962837053/1105828651062267904/Screenshot_2023-05-10-19-07-49-718_com.jeremy776.rohkrissman14bandarlampung.jpg)
 
-- Register Screen
+## Register Screen
 ![Register Screen](https://cdn.discordapp.com/attachments/901133191962837053/1105828650747711538/Screenshot_2023-05-10-19-07-55-096_com.jeremy776.rohkrissman14bandarlampung.jpg)
+
+
 ## Authors
 - [@jeremy776](https://www.github.com/jeremy776)
